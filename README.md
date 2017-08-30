@@ -1,7 +1,7 @@
-board1551
-=========
+My fake Symfony 3 project
+=========================
 
-* Change your current directory to **board1551**
+* Change your current directory to **My fake Symfony 3 project**
 * Configure your application in app/config/parameters.yml file.
 * Run your application:
 
@@ -10,4 +10,4 @@ board1551
 
 * Read the documentation at http://symfony.com/doc
 
-* If you like to see a demo, go to https://board1551.herokuapp.com
+* If you like to see a demo, go to https://sf3fake.herokuapp.com
