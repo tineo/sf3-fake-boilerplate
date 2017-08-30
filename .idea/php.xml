@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpStepFilterConfiguration" skip_constructors="true" skip_magic_methods="true">
+    <option name="skippedFunctions">
+      <list>
+        <option value="Symfony\Component\Debug\DebugClassLoader-&gt;loadClass" />
+        <option value="Symfony\Bridge\Doctrine\DataCollector\DoctrineDataCollector-&gt;__construct" />
+        <option value="Doctrine\Bundle\DoctrineBundle\DataCollector\DoctrineDataCollector-&gt;__construct" />
+        <option value="appDevDebugProjectContainer-&gt;getProfilerService" />
+        <option value="Symfony\Component\DependencyInjection\Container-&gt;get" />
+        <option value="appDevDebugProjectContainer-&gt;getWebProfiler_DebugToolbarService" />
+        <option value="appDevDebugProjectContainer-&gt;{closure:/home/tineo/board1551/var/cache/dev/appDevDebugProjectContainer.php:694-696}" />
+        <option value="Symfony\Component\EventDispatcher\EventDispatcher-&gt;sortListeners" />
+        <option value="Symfony\Component\EventDispatcher\EventDispatcher-&gt;getListeners" />
+        <option value="Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher-&gt;getListenerPriority" />
+        <option value="Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher-&gt;preProcess" />
+        <option value="Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher-&gt;dispatch" />
+        <option value="Symfony\Component\HttpKernel\HttpKernel-&gt;filterResponse" />
+        <option value="Symfony\Component\HttpFoundation\HeaderBag-&gt;has" />
+        <option value="Symfony\Component\HttpFoundation\Response-&gt;sendHeaders" />
+        <option value="Symfony\Component\HttpFoundation\Response-&gt;send" />
+        <option value="require" />
+      </list>
+    </option>
+  </component>
+</project>
